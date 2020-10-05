@@ -1,0 +1,101 @@
+# Translation of Plugins - Module Control for Jetpack - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Module Control for Jetpack - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-09-26 15:34:11+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Module Control for Jetpack - Stable (latest release)\n"
+
+#: jetpack-module-control.php:283
+msgid "Allow individual site administrators to manage their own settings for Jetpack Module Control"
+msgstr "Autoriser les administrateurs des sites à gérer leurs propres réglages de Jetpack Module Control"
+
+#: jetpack-module-control.php:690
+msgid "Sub-site Override"
+msgstr "Redéfinition par site"
+
+#: jetpack-module-control.php:749
+msgid "These settings are only visible to you as Super Admin and these settings affect all sites on the network."
+msgstr "Ces options sont uniquement visible pour le Super Admin et elles affectent l’ensemble des sites dans le réseau."
+
+#. Author URI of the plugin/theme
+msgid "http://status301.net/"
+msgstr "http://status301.net/fr/"
+
+#. Author of the plugin/theme
+msgid "RavanH"
+msgstr "RavanH"
+
+#. Plugin URI of the plugin/theme
+msgid "http://status301.net/wordpress-plugins/jetpack-module-control/"
+msgstr "http://status301.net/wordpress-plugins/jetpack-module-control/"
+
+#: jetpack-module-control.php:432
+msgid "Use Jetpack modules without a WordPress.com connection"
+msgstr "Utilise des modules Jetpack sans connexion à WordPress.com"
+
+#: jetpack-module-control.php:552
+msgid "Requires a WordPress.com connection"
+msgstr "Nécessite une connexion WordPress.com"
+
+#: jetpack-module-control.php:629 jetpack-module-control.php:683
+#: jetpack-module-control.php:743
+msgid "Jetpack Module Control"
+msgstr "Contrôle des Modules Jetpack"
+
+#: jetpack-module-control.php:642 jetpack-module-control.php:707
+msgid "Development Mode"
+msgstr "Mode de Développement"
+
+#. Plugin Name of the plugin/theme
+msgid "Module Control for Jetpack"
+msgstr "Module Control pour Jetpack"
+
+#: jetpack-module-control.php:641 jetpack-module-control.php:699
+msgid "Manual Control"
+msgstr "Contrôle manuel"
+
+#: jetpack-module-control.php:542 jetpack-module-control.php:643
+#: jetpack-module-control.php:715
+msgid "Blacklist Modules"
+msgstr "Liste noire des modules"
+
+#: jetpack-module-control.php:355
+msgid "Note: The module %s is excepted from this rule."
+msgstr "Attention : le module %s est exclu de cette règle."
+
+#. #-#-#-#-#  tmp-jetpack-module-control.pot (Module Control for Jetpack 1.5) 
+#. #-#-#-#-#
+#. Description of the plugin/theme
+#: jetpack-module-control.php:744
+msgid "This plugin brings additional control over Jetpack modules. You can blacklist / remove individual modules, prevent auto-activation or allow activation without a WordPress.com account."
+msgstr "Cette extension vous apporte plus de contrôle sur les modules de Jetpack. Vous pouvez les ajouter à la liste noire, empêcher l’activation automatique ou permettre l’utilisation sans compte WordPress.com."
+
+#: jetpack-module-control.php:742
+msgid "The options in this section are provided by %s."
+msgstr "Les options dans cette section sont fournies par %s."
+
+#: jetpack-module-control.php:556
+msgid "*) Modules marked with an asterisk require a WordPress.com connection. They will be unavailable if Jetpack is forced into development mode."
+msgstr "*) Les modules marqués par un astérisque demandent une connexion WordPress.com. Ils ne sont plus disponibles lorsque Jetpack est mis en mode de développement."
+
+#: jetpack-module-control.php:434
+msgid "By forcing Jetpack into development mode, modules are used without a WordPress.com account. All modules that require a WordPress.com connection will be unavailable. These modules are marked with an asterisk (*) below. The admin message about Jetpack running in development mode will be hidden."
+msgstr "En forçant Jetpack en mode de développement, les modules seront utilisés sans compte WordPress.com. Tout module exigeant une connexion WordPress.com sera indisponible. Ces modules sont indiqués avec un astérisque (*) dans la liste en dessous. Le message dans l’admin des sites à propos Jetpack en mode de développement sera caché."
+
+#: jetpack-module-control.php:747
+msgid "These settings can be locked down by adding %s to your wp-config.php file."
+msgstr "Ces options peuvent être verrouillées par l’ajout de %s à votre fichier wp-config.php."
+
+#: jetpack-module-control.php:739 jetpack-module-control.php:741
+msgid "Donate to keep plugin development going!"
+msgstr "Vous pouvez contribuer au développement de cette extension !"
+
+#: jetpack-module-control.php:353
+msgid "Prevent Jetpack from auto-activating (new) modules"
+msgstr "Empêche Jetpack d’activer de (nouveaux) modules automatiquement"
